@@ -14,3 +14,6 @@ A compilation of knowledge about the Go Programming Language
 
 ## Error handling
 * [Error handling guidelines for Go](https://jayconrod.com/posts/116/error-handling-guidelines-for-go): The logic behind properly handling errors, be it with the error interface or by returning sentinel values.
+
+## Modules
+* [Life of a Go module](https://jayconrod.com/posts/118/life-of-a-go-module)
