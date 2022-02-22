@@ -25,3 +25,9 @@ A compilation of knowledge about the Go Programming Language
 
 ## Databases
 * [Go database/sql tutorial](http://go-database-sql.org/index.html)
+
+## Containers
+* [Using GoLang with Docker](https://golangdocs.com/golang-docker): Step by step guide to run a Go app in a Docker container, with example Dockerfile.
+
+## Daemons
+* [Four Steps to Daemonize Your Go Programs](https://ieftimov.com/post/four-steps-daemonize-your-golang-programs/): How to correctly setup a daemon in Go, handle signals SIGTERM, SIGHUP, logging, etc. [_Ilija Eftimov_]
