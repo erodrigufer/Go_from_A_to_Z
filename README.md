@@ -37,7 +37,7 @@ A compilation of knowledge about the Go Programming Language
 
 ## Databases
 * [Go database/sql tutorial](http://go-database-sql.org/index.html)
-* [Organising database access in Go](https://www.alexedwards.net/blog/organising-database-access): Choosing between handling databse connection pools with global variables, own types and dependency injection through methods and context resources. [_Alex Edwards_]
+* [Organising database access in Go](https://www.alexedwards.net/blog/organising-database-access): Choosing between handling database connection pools with global variables, own types and dependency injection through methods and context resources. [_Alex Edwards_]
 
 ## Containers
 * [Using GoLang with Docker](https://golangdocs.com/golang-docker): Step by step guide to run a Go app in a Docker container, with example Dockerfile.
