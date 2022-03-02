@@ -8,9 +8,11 @@ A compilation of knowledge about the Go Programming Language
 * [Let's go further](https://lets-go-further.alexedwards.net/): Advanced patterns for building APIs and web applications in Go. Metrics, Authentication, JSON responses, DB operations, etc. [_Alex Edwards_]
 * [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/) (O'Reilly) [_Katherine Cox-Buday_]
 
-## Design patterns
+## Software engineering
+### Design patterns
 * [A theory of modern Go](https://peter.bourgon.org/blog/2017/06/09/theory-of-modern-go.html): Reasoning behind avoiding global state and init() functions, and instead use dependecy injections and/or interfaces. [_Peter Bourgon_]
 * [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/): Best practices summed up in a long article. Everything from handling dependencies, to repository layout, testing, logging, etc. [_Peter Bourgon_]
+
 ## Data structures
 * [Go Data Structures](https://research.swtch.com/godata): A description of the memory implementation of some basic types in Go: bytes, int, floats, structs, pointers, strings and slices. Furthermore, a description of the functions for data structure creation `make` and `new`. [_Russ Cox_]
 
@@ -34,6 +36,9 @@ A compilation of knowledge about the Go Programming Language
 
 ### Testing
 * [Testing in Go: go test](https://ieftimov.com/post/testing-in-go-go-test/): In depth description to start configuring a project for testing: test coverage, flags and options of go test, test result caching, etc.  [_Ilija Eftimov_]
+
+### Documentation
+* [Testable Examples in Go](https://go.dev/blog/examples): Official documentation on how to integrate example code to the documentation.
 
 ### Modules
 * [Life of a Go module](https://jayconrod.com/posts/118/life-of-a-go-module): How GOPROXY, checksum and in general the module handling system works. [_Jay Conrod_]
