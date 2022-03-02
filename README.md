@@ -50,7 +50,7 @@ A compilation of knowledge about the Go Programming Language
 * [GORM: Golang ORM Package](https://golangdocs.com/gorm-golang-orm-package): How to use and setup an Object Relational Mapper in Go to facilitate writing SQL queries.
 
 ## Concurrency
-* [Learning Go’s Concurrency Through Illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3): Very basic guide about goroutines and channels with many illustrations. Blocking and non-blocking channels. [_Trevor Forrey_]
+* [Learning Go’s Concurrency through illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3): Very basic guide about goroutines and channels with many illustrations. Blocking and non-blocking channels. [_Trevor Forrey_]
 
 ## Containers
 * [Using GoLang with Docker](https://golangdocs.com/golang-docker): Step by step guide to run a Go app in a Docker container, with example Dockerfile.
