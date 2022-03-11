@@ -52,6 +52,10 @@ A compilation of knowledge about the Go Programming Language
 ## Concurrency
 * [Learning Go’s Concurrency through illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3): Very basic guide about goroutines and channels with many illustrations. Blocking and non-blocking channels. [_Trevor Forrey_]
 
+### Go runtime scheduler
+* [The Go scheduler](https://morsmachine.dk/go-scheduler): High-level description of the interplay of OS threads, goroutines and contexts. How blocking syscalls are handled. [_Daniel Morsing_]
+* [The Go runtime scheduler's clever way of dealing with system calls](https://utcc.utoronto.ca/~cks/space/blog/programming/GoSchedulerAndSyscalls): More in-detail description of how syscalls are characterized into good and bad syscalls, and the good syscalls are wait upon by the sysmon goroutine [_Chris Siebenmann_}
+
 ## Containers
 * [Using GoLang with Docker](https://golangdocs.com/golang-docker): Step by step guide to run a Go app in a Docker container, with example Dockerfile.
 * [Building Docker Images for Static Go Binaries](https://medium.com/@kelseyhightower/optimizing-docker-images-for-static-binaries-b5696e26eb07#.r4j4suwn2): Creating a very small size Docker image for a static Go binary. [_Kelsey Hightower_]
