@@ -54,6 +54,8 @@ A compilation of knowledge about the Go Programming Language
 
 ### Go runtime scheduler
 * [The Go scheduler](https://morsmachine.dk/go-scheduler): High-level description of the interplay of OS threads, goroutines and contexts. How blocking syscalls are handled. [_Daniel Morsing_]
+* [The Go netpoller](https://morsmachine.dk/netpoller): How polling primitives of the underline OS are used by Go in order to not block every single thread with a blocking syscall while doing networking. [_Daniel Morsing_]
+* [Go's work-stealing scheduler](https://rakyll.org/scheduler/): Description of how the work-stealing algorithm of the Go runtime works [_rakyll_]
 * [The Go runtime scheduler's clever way of dealing with system calls](https://utcc.utoronto.ca/~cks/space/blog/programming/GoSchedulerAndSyscalls): More in-detail description of how syscalls are characterized into good and bad syscalls, and the good syscalls are wait upon by the sysmon goroutine [_Chris Siebenmann_}
 
 ## Containers
