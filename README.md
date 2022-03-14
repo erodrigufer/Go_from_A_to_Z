@@ -49,6 +49,7 @@ A compilation of knowledge about the Go Programming Language
 * [Go database/sql tutorial](http://go-database-sql.org/index.html)
 * [Organising database access in Go](https://www.alexedwards.net/blog/organising-database-access): Choosing between handling database connection pools with global variables, own types and dependency injection through methods and context resources. [_Alex Edwards_]
 * [GORM: Golang ORM Package](https://golangdocs.com/gorm-golang-orm-package): How to use and setup an Object Relational Mapper in Go to facilitate writing SQL queries.
+* [Configuring sql.DB for better performance](https://www.alexedwards.net/blog/configuring-sqldb): Configuring maximum values for open and idle connections to a db, and setting a connection timeout. [_Alex Edwards_]
 
 ## Concurrency
 * [Learning Go’s Concurrency through illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3): Very basic guide about goroutines and channels with many illustrations. Blocking and non-blocking channels. [_Trevor Forrey_]
