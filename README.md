@@ -25,7 +25,7 @@ A compilation of knowledge about the Go Programming Language
 * [Validation Snippets for Go](https://www.alexedwards.net/blog/validation-snippets-for-go): Common validation patterns for data being sent to a server through a POST request [_Alex Edwards_]
 * [A Guide To Writing Logging Middleware in Go](https://blog.questionable.services/article/guide-logging-middleware-go/): Step by step guide to write logging middleware. [_Matt Silverlock_]
 * [Which Go router should I use?](https://www.alexedwards.net/blog/which-go-router-should-i-use): Comparison and evaluation of popular router options for Go. [_Alex Edwards_]
-
+* [Hot to Rate Limit HTTP requests](https://www.alexedwards.net/blog/how-to-rate-limit-http-requests): Excellent article about how to properly set a maximum rate of requests in a given time from a particular user. [_Alex Edwards_]
 ## Error handling
 * [Error handling guidelines for Go](https://jayconrod.com/posts/116/error-handling-guidelines-for-go): The logic behind properly handling errors, be it with the error interface or by returning sentinel values. [_Jay Conrod_]
 
