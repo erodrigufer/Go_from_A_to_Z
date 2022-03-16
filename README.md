@@ -18,6 +18,7 @@ A compilation of knowledge about the Go Programming Language
 * [Go Data Structures](https://research.swtch.com/godata): A description of the memory implementation of some basic types in Go: bytes, int, floats, structs, pointers, strings and slices. Furthermore, a description of the functions for data structure creation `make` and `new`. [_Russ Cox_]
 
 ## Semantics
+* [The Go Programming Language Specification](https://go.dev/ref/spec): Official language specification
 * [Golang Interfaces Explained](https://www.alexedwards.net/blog/interfaces-explained): Definition, meaning and usefulness of interfaces. [_Alex Edwards_]
 
 ## HTTP Servers
@@ -68,3 +69,6 @@ A compilation of knowledge about the Go Programming Language
 * [Four Steps to Daemonize Your Go Programs](https://ieftimov.com/post/four-steps-daemonize-your-golang-programs/): How to correctly setup a daemon in Go, handle signals SIGTERM, SIGHUP, logging, etc. [_Ilija Eftimov_]
 * [runtime: support for daemonize #227](https://github.com/golang/go/issues/227): GitHub thread regarding the difficulties of running a Go program as a usual Unix daemon
 * [Running Go Applications in the Background](https://blog.questionable.services/article/running-go-applications-in-the-background/): Using _Supervisor_ to run a Go program in the background, handle logging, email notifications and restarts if the program crashes. [_Matt Silverlock_]
+
+## Misc (unclassified or difficult to classify)
+* [Reading list for a training](https://github.com/ardanlabs/gotraining/tree/master/reading): Reading list has a lot of further interesting links
