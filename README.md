@@ -1,4 +1,4 @@
-# Go_from_A_to_Z
+# Go from A to Z
 A compilation of knowledge about the Go Programming Language
 
 ## Books
