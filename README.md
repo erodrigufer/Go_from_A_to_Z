@@ -13,6 +13,7 @@ A compilation of knowledge about the Go Programming Language
 * [A theory of modern Go](https://peter.bourgon.org/blog/2017/06/09/theory-of-modern-go.html): Reasoning behind avoiding global state and init() functions, and instead use dependecy injections and/or interfaces. [_Peter Bourgon_]
 * [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/): Best practices summed up in a long article. Everything from handling dependencies, to repository layout, testing, logging, etc. [_Peter Bourgon_]
 * [Go for Industrial programming](https://peter.bourgon.org/go-for-industrial-programming/): Another great article with best practices around: adequately handling concurrency and goroutine's creation and definition (properly handling the interruption of a goroutine), observability (metrics, logging, tracing), dependencies, testing, etc. [_Peter Bourgon_]
+* [Go (Golang) - understanding the object oriented features with structs, methods, and interfaces](https://unixsheikh.com/articles/go-understanding-the-object-oriented-features-with-structs-methods-and-interfaces.html): How Go implements OOP paradigma in a different more effective way. [_Unix Sheikh_]
 
 ## Data structures
 * [Go Data Structures](https://research.swtch.com/godata): A description of the memory implementation of some basic types in Go: bytes, int, floats, structs, pointers, strings and slices. Furthermore, a description of the functions for data structure creation `make` and `new`. [_Russ Cox_]
