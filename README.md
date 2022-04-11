@@ -38,7 +38,7 @@ A compilation of knowledge about the Go Programming Language
 ### Build
 * [Export data, the secret of Go's fast builds](https://jayconrod.com/posts/112/export-data--the-secret-of-go-s-fast-builds): A brief overview about export data in the build process, and how Go tries to speed up the build process. [_Jay Conrod_]
 * [Installation with Go Language can be simpler](https://gokcehan.github.io/posts/installation-with-go-language-can-be-simpler.html): Some useful recommendations regarding static linking through use of _CGO_ENABLED_ env variable, stripping binaries at compilation, version in binaries, cross-compilation, etc.
-* [Customizing Go binaries with build tags](https://www.digitalocean.com/community/tutorials/customizing-go-binaries-with-build-tags): Tutorial on how to use build tags for cross-compilation.
+* [Customizing Go binaries with build tags](https://www.digitalocean.com/community/tutorials/customizing-go-binaries-with-build-tags): Tutorial on how to use build tags for cross-compilation. [_DigitalOcean's Go series_]
 
 ### Testing
 * [Testing in Go: go test](https://ieftimov.com/post/testing-in-go-go-test/): In depth description to start configuring a project for testing: test coverage, flags and options of go test, test result caching, etc.  [_Ilija Eftimov_]
@@ -57,6 +57,9 @@ A compilation of knowledge about the Go Programming Language
 
 ## Concurrency
 * [Learning Go’s Concurrency through illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3): Very basic guide about goroutines and channels with many illustrations. Blocking and non-blocking channels. [_Trevor Forrey_]
+
+### Contexts
+* [How to use contexts in Go](https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go): Semantic and syntactic explanation on how to implement contexts in concurrent programs. [_DigitalOcean's Go series_]
 
 ### Go runtime scheduler
 * [The Go scheduler](https://morsmachine.dk/go-scheduler): High-level description of the interplay of OS threads, goroutines and contexts. How blocking syscalls are handled. [_Daniel Morsing_]
