@@ -33,7 +33,7 @@ A compilation of knowledge about the Go Programming Language
 * [Go (Golang) - Errors and panics](https://unixsheikh.com/articles/go-errors-and-panics.html): An argument for verbosity in error handling in Go [_Unix Sheikh_]
 
 ## Tooling
-* [An overview of Go's Tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling): A general overview of the multiple options of the `go` command.
+* [An overview of Go's Tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling): A general overview of the multiple options of the `go` command. [_Alex Edwards_]
 
 ### Build
 * [Export data, the secret of Go's fast builds](https://jayconrod.com/posts/112/export-data--the-secret-of-go-s-fast-builds): A brief overview about export data in the build process, and how Go tries to speed up the build process. [_Jay Conrod_]
