@@ -1,6 +1,31 @@
 # Go from A to Z
 A compilation of knowledge about the Go Programming Language
 
+## Table of contents
+<!-- vim-markdown-toc GFM -->
+
+* [Books](#books)
+* [Software engineering](#software-engineering)
+	- [Design patterns](#design-patterns)
+* [Data structures](#data-structures)
+* [Semantics](#semantics)
+* [HTTP Servers](#http-servers)
+* [Error handling](#error-handling)
+* [Tooling](#tooling)
+	- [Build](#build)
+	- [Testing](#testing)
+	- [Documentation](#documentation)
+	- [Modules](#modules)
+* [Databases](#databases)
+* [Concurrency](#concurrency)
+	- [Contexts](#contexts)
+	- [Go runtime scheduler](#go-runtime-scheduler)
+* [Containers](#containers)
+* [Background processes ("daemons")](#background-processes-daemons)
+* [Misc (unclassified or difficult to classify)](#misc-unclassified-or-difficult-to-classify)
+
+<!-- vim-markdown-toc -->
+
 ## Books
 * [The Go Programming Language](https://www.gopl.io): The Bible. [_Alan A. A. Donovan and Brian W. Kernighan_]
 * [Network Programming with Go](https://nostarch.com/networkprogrammingwithgo) (No Starch Press): In depth analysis of how to properly handle http servers, TCP/UDP connections, client and server timeouts, networking error handling, telemetry, etc. [_Adam Woodbeck_]
