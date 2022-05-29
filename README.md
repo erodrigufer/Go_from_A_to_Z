@@ -46,6 +46,7 @@ A compilation of knowledge about the Go Programming Language
 ## Semantics
 * [The Go Programming Language Specification](https://go.dev/ref/spec): Official language specification
 * [Golang Interfaces Explained](https://www.alexedwards.net/blog/interfaces-explained): Definition, meaning and usefulness of interfaces. [_Alex Edwards_]
+* [Why Infer Types?](https://npf.io/2022/05/why-infer/): The reasoning behind infering types instead of explicit type definitions. [_Nate Finch_]
 
 ## HTTP Servers
 * [Validation Snippets for Go](https://www.alexedwards.net/blog/validation-snippets-for-go): Common validation patterns for data being sent to a server through a POST request [_Alex Edwards_]
