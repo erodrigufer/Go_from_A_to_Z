@@ -18,6 +18,7 @@ A compilation of knowledge about the Go Programming Language
 	- [Modules](#modules)
 * [Databases](#databases)
 * [Concurrency](#concurrency)
+	- [Channels](#channels)
 	- [Contexts](#contexts)
 	- [Go runtime scheduler](#go-runtime-scheduler)
 * [Containers](#containers)
@@ -85,6 +86,9 @@ A compilation of knowledge about the Go Programming Language
 
 ## Concurrency
 * [Learning Go’s Concurrency through illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3): Very basic guide about goroutines and channels with many illustrations. Blocking and non-blocking channels. [_Trevor Forrey_]
+
+### Channels
+* [Is it ok to leave a channel open?](https://stackoverflow.com/questions/8593645/is-it-ok-to-leave-a-channel-open): StackOverflow discussion with great sources about the reasoning for not always closing channels. [_StackOverflow_] 
 
 ### Contexts
 * [How to use contexts in Go](https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go): Semantic and syntactic explanation on how to implement contexts in concurrent programs. [_DigitalOcean's Go series_]
