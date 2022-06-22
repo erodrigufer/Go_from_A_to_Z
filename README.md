@@ -88,6 +88,7 @@ A compilation of knowledge about the Go Programming Language
 
 ## Concurrency
 * [Learning Go’s Concurrency through illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3): Very basic guide about goroutines and channels with many illustrations. Blocking and non-blocking channels. [_Trevor Forrey_]
+* [Writing a One-to-Many Event Feed Library in Go](https://rauljordan.com/2019/09/23/how-to-write-an-event-feed-library.html): An introduction with example code on how to handle the Pub/Sub design pattern with channels in Go, to basically multicast information to many clients in a concurrent-safe way. [_Raul Jordan_]
 
 ### Channels
 * [Is it ok to leave a channel open?](https://stackoverflow.com/questions/8593645/is-it-ok-to-leave-a-channel-open): StackOverflow discussion with great sources about the reasoning for not always closing channels. [_StackOverflow_] 
