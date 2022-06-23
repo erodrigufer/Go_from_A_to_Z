@@ -105,6 +105,7 @@ A compilation of knowledge about the Go Programming Language
 ### Data races
 * [Data race patterns in Go](https://eng.uber.com/data-race-patterns-in-go/) [A study of real-world data races in Golang](https://arxiv.org/pdf/2204.00764.pdf): An article by a dev team at Uber, in which they talk about the data race patterns that they found by scanning the vast Go codebase at Uber (also published as a peer-reviewed article).
 * [Ice cream makers and data races](https://dave.cheney.net/2014/06/27/ice-cream-makers-and-data-races): A demonstration and explanation of data races taking place with interfaces in part due to the memory model of interfaces. [_Dave Cheney_]
+* [Are Go maps sensitive to data races?](https://dave.cheney.net/2015/12/07/are-go-maps-sensitive-to-data-races): An explanation of why maps are more susceptible to causing data races and problems in concurrent applications, than other more simple data structures (as slices). [_Dave Cheney_]
 
 ## Containers
 * [Using GoLang with Docker](https://golangdocs.com/golang-docker): Step by step guide to run a Go app in a Docker container, with example Dockerfile.
