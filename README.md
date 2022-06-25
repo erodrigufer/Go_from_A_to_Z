@@ -112,6 +112,8 @@ A compilation of knowledge about the Go Programming Language
 * [Building Docker Images for Static Go Binaries](https://medium.com/@kelseyhightower/optimizing-docker-images-for-static-binaries-b5696e26eb07#.r4j4suwn2): Creating a very small size Docker image for a static Go binary. [_Kelsey Hightower_]
 
 ## Background processes ("daemons")
+* [Supervised FreeBSD rc.d script for a Go daemon](https://redbyte.eu/en/blog/supervised-freebsd-init-script-for-go-deamon/): Run a go program as a supervised daemon in FreeBSD.
+* [Write and auto-deploy daemons in FreeBSD](https://dev.to/zilti/updated-write-and-auto-deploy-daemons-on-freebsd-k7i): How to write and auto-deploy daemons using the `daemon(8)` FreeBSD functionality and rc.
 * [Four Steps to Daemonize Your Go Programs](https://ieftimov.com/post/four-steps-daemonize-your-golang-programs/): How to correctly setup a daemon in Go, handle signals SIGTERM, SIGHUP, logging, etc. [_Ilija Eftimov_]
 * [runtime: support for daemonize #227](https://github.com/golang/go/issues/227): GitHub thread regarding the difficulties of running a Go program as a usual Unix daemon
 * [Running Go Applications in the Background](https://blog.questionable.services/article/running-go-applications-in-the-background/): Using _Supervisor_ to run a Go program in the background, handle logging, email notifications and restarts if the program crashes. [_Matt Silverlock_]
