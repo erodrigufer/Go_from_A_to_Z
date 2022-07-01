@@ -74,6 +74,7 @@ A compilation of knowledge about the Go Programming Language
 
 ### Testing
 * [Testing in Go: go test](https://ieftimov.com/post/testing-in-go-go-test/): In depth description to start configuring a project for testing: test coverage, flags and options of go test, test result caching, etc.  [_Ilija Eftimov_]
+* [Don't use a different interface for testing](https://www.komu.engineer/blogs/10/dont-use-a-different-interface-for-testing): A good explanatory article explaining why not using the same interface for testing is not a good idea due to code coverage.
 
 ### Documentation
 * [Testable Examples in Go](https://go.dev/blog/examples): Official documentation on how to integrate example code to the documentation.
