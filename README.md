@@ -129,3 +129,4 @@ A compilation of knowledge about the Go Programming Language
 ## Misc (unclassified or difficult to classify)
 * [Reading list for a training](https://github.com/ardanlabs/gotraining/tree/master/reading): Reading list has a lot of further interesting links
 * [Upgrading Go in Ubuntu](https://github.com/golang/go/wiki/Ubuntu)
+* [Between Golang and Elixir](https://preslav.me/2021/04/23/between-golang-and-elixir/): A guide of how to integrate Go and Elixir together, and when it makes sense to use them.
