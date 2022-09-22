@@ -11,6 +11,7 @@ A compilation of knowledge about the Go Programming Language
 * [Semantics](#semantics)
 	- [Analysis](#analysis)
 * [HTTP Servers](#http-servers)
+* [Monitoring](#monitoring)
 * [Error handling](#error-handling)
 * [Tooling](#tooling)
 	- [Build](#build)
@@ -64,6 +65,9 @@ A compilation of knowledge about the Go Programming Language
 * [A Guide To Writing Logging Middleware in Go](https://blog.questionable.services/article/guide-logging-middleware-go/): Step by step guide to write logging middleware. [_Matt Silverlock_]
 * [Which Go router should I use?](https://www.alexedwards.net/blog/which-go-router-should-i-use): Comparison and evaluation of popular router options for Go. [_Alex Edwards_]
 * [Hot to Rate Limit HTTP requests](https://www.alexedwards.net/blog/how-to-rate-limit-http-requests): Excellent article about how to properly set a maximum rate of requests in a given time from a particular user. [_Alex Edwards_]
+
+## Monitoring
+* [Collecting Prometheus metrics in Golang](https://gabrieltanner.org/blog/collecting-prometheus-metrics-in-golang/): A very detailed guide about collecting metrics with Go using Prometheus and finally displaying them in a dashboard with Grafana. [_Gabriel Tanner_]
 
 ## Error handling
 * [Why Go error handling is awesome](https://rauljordan.com/2020/07/06/why-go-error-handling-is-awesome.html): A discussion and comparison of error handling in Go with other languages. A good explanation about giving context to errors with `fmt.Errorf()`. [_Raul Jordan_]
