@@ -56,6 +56,7 @@ A compilation of knowledge about the Go Programming Language
 * [The Go Programming Language Specification](https://go.dev/ref/spec): Official language specification
 * [Golang Interfaces Explained](https://www.alexedwards.net/blog/interfaces-explained): Definition, meaning and usefulness of interfaces. [_Alex Edwards_]
 * [Why Infer Types?](https://npf.io/2022/05/why-infer/): The reasoning behind infering types instead of explicit type definitions. [_Nate Finch_]
+* [How to use variadic functions in Go](https://www.digitalocean.com/community/tutorials/how-to-use-variadic-functions-in-go): A DigitalOcean's guide on using variadic functions. [_DigitalOcean_]
 
 ### Analysis
 * [The ultime guide to writing a Go tool](https://arslan.io/2017/09/14/the-ultimate-guide-to-writing-a-go-tool/): A guide on how to use semantic/language analysis tools from the standard library to write a Go tool. [_Fatih Arslan_]
