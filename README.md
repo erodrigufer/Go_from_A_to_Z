@@ -84,6 +84,7 @@ A compilation of knowledge about the Go Programming Language
 * [Export data, the secret of Go's fast builds](https://jayconrod.com/posts/112/export-data--the-secret-of-go-s-fast-builds): A brief overview about export data in the build process, and how Go tries to speed up the build process. [_Jay Conrod_]
 * [Installation with Go Language can be simpler](https://gokcehan.github.io/posts/installation-with-go-language-can-be-simpler.html): Some useful recommendations regarding static linking through use of _CGO_ENABLED_ env variable, stripping binaries at compilation, version in binaries, cross-compilation, etc.
 * [Customizing Go binaries with build tags](https://www.digitalocean.com/community/tutorials/customizing-go-binaries-with-build-tags): Tutorial on how to use build tags for cross-compilation. [_DigitalOcean's Go series_]
+* [3 ways to embed commit hash to Go programs](https://developers.redhat.com/articles/2022/11/14/3-ways-embed-commit-hash-go-programs): A guide on how to embed a commit hash to a Go program at build time. [_Red Hat_]
 
 ### Testing
 * [Testing in Go: go test](https://ieftimov.com/post/testing-in-go-go-test/): In depth description to start configuring a project for testing: test coverage, flags and options of go test, test result caching, etc.  [_Ilija Eftimov_]
