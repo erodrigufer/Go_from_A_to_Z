@@ -48,6 +48,7 @@ A compilation of knowledge about the Go Programming Language
 * [Simple Go project layout with modules](https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/): The best article I have encountered that explains how to layout a Go project for client consumption as both a library and/or as an executable. [_Eli Bendersky_]
 * [Why you shouldn't use func main() in Go](https://pace.dev/blog/2020/02/12/why-you-shouldnt-use-func-main-in-golang-by-mat-ryer.html): An article explaining that calling a function `run()` inside main, and passing `os.Args` and `std.out`, etc to it, is more testable than just using main(). [_Mat Ryer_]
 * [We already have Go 2](https://xeiaso.net/blog/we-have-go-2): A tour of general changes in the Go ecosystem (GOPATH, modules, etc.) since its inception.
+* [Interface segregation in action with Go](https://gianarb.it/blog/interface-segreation-in-action-with-go): A simple explanatory guide on how to properly use and compose interfaces and the benefits of structuring a program in such a way.
 
 ## Data structures
 * [Go Data Structures](https://research.swtch.com/godata): A description of the memory implementation of some basic types in Go: bytes, int, floats, structs, pointers, strings and slices. Furthermore, a description of the functions for data structure creation `make` and `new`. [_Russ Cox_]
