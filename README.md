@@ -12,6 +12,7 @@ A compilation of knowledge about the Go Programming Language
 	- [Analysis](#analysis)
 * [HTTP Servers](#http-servers)
 * [Monitoring](#monitoring)
+* [REST API](#rest-api)
 * [Error handling](#error-handling)
 * [Tooling](#tooling)
 	- [Build](#build)
@@ -72,6 +73,9 @@ A compilation of knowledge about the Go Programming Language
 * [Collecting Prometheus metrics in Golang](https://gabrieltanner.org/blog/collecting-prometheus-metrics-in-golang/): A very detailed guide about collecting metrics with Go using Prometheus and finally displaying them in a dashboard with Grafana. [_Gabriel Tanner_]
 * [Getting response status code with middleware](https://stackoverflow.com/questions/53272536/how-do-i-get-response-statuscode-in-golang-middleware): A StackOverflow thread on how to capture the _status code_ of a response that has already been sent to a client with the help of the `negroni` library. [_StackOverflow_]
 	* [ResponseWriter in negroni](https://github.com/urfave/negroni/blob/master/response_writer.go): `negroni`'s implementation of a `ResponseWriter`, which has additional very useful methods missing in the standard library.
+
+## REST API
+* [REST servers in Go part 4: Using OpenAPI and Swagger](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-4-using-openapi-and-swagger/): A guide on how to generate both documentation and an opinionated API server and/or client from a Swagger definition. [_Eli Bendersky_]
 
 ## Error handling
 * [Why Go error handling is awesome](https://rauljordan.com/2020/07/06/why-go-error-handling-is-awesome.html): A discussion and comparison of error handling in Go with other languages. A good explanation about giving context to errors with `fmt.Errorf()`. [_Raul Jordan_]
