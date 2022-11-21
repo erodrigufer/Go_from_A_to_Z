@@ -9,6 +9,7 @@ A compilation of knowledge about the Go Programming Language
 	- [Design patterns](#design-patterns)
 * [Data structures](#data-structures)
 * [Semantics](#semantics)
+	- [Composition](#composition)
 	- [Analysis](#analysis)
 * [HTTP Servers](#http-servers)
 * [Monitoring](#monitoring)
@@ -59,6 +60,11 @@ A compilation of knowledge about the Go Programming Language
 * [Golang Interfaces Explained](https://www.alexedwards.net/blog/interfaces-explained): Definition, meaning and usefulness of interfaces. [_Alex Edwards_]
 * [Why Infer Types?](https://npf.io/2022/05/why-infer/): The reasoning behind infering types instead of explicit type definitions. [_Nate Finch_]
 * [How to use variadic functions in Go](https://www.digitalocean.com/community/tutorials/how-to-use-variadic-functions-in-go): A DigitalOcean's guide on using variadic functions. [_DigitalOcean_]
+
+### Composition
+* [Embedding in Go part 1: Structs in structs](https://eli.thegreenplace.net/2020/embedding-in-go-part-1-structs-in-structs/): Part 1 of a 3 part series which focuses on teaching the reasoning behind different compositional patterns with _structs_ and _interfaces_. [_Eli Bendersky_]
+* [Embedding in Go part 2: Interfaces in interfaces](https://eli.thegreenplace.net/2020/embedding-in-go-part-2-interfaces-in-interfaces/): Part 2 of a 3 part series which focuses on teaching the reasoning behind different compositional patterns with _structs_ and _interfaces_. [_Eli Bendersky_]
+* [Embedding in Go part 3: Interfaces in structs](https://eli.thegreenplace.net/2020/embedding-in-go-part-3-interfaces-in-structs/): Part 3 of a 3 part series which focuses on teaching the reasoning behind different compositional patterns with _structs_ and _interfaces_. [_Eli Bendersky_]
 
 ### Analysis
 * [The ultime guide to writing a Go tool](https://arslan.io/2017/09/14/the-ultimate-guide-to-writing-a-go-tool/): A guide on how to use semantic/language analysis tools from the standard library to write a Go tool. [_Fatih Arslan_]
