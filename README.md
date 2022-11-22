@@ -4,6 +4,7 @@ A compilation of knowledge about the Go Programming Language
 ## Table of contents
 <!-- vim-markdown-toc GFM -->
 
+* [Official documentation](#official-documentation)
 * [Books](#books)
 * [Software engineering](#software-engineering)
 	- [Design patterns](#design-patterns)
@@ -31,6 +32,10 @@ A compilation of knowledge about the Go Programming Language
 * [Misc (unclassified or difficult to classify)](#misc-unclassified-or-difficult-to-classify)
 
 <!-- vim-markdown-toc -->
+
+## Official documentation
+* [Language specification](https://tip.golang.org/ref/spec)
+* [Effective Go](https://go.dev/doc/effective_go)
 
 ## Books
 * [The Go Programming Language](https://www.gopl.io): The Bible. [_Alan A. A. Donovan and Brian W. Kernighan_]
