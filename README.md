@@ -13,6 +13,7 @@ A compilation of knowledge about the Go Programming Language
 	- [Composition](#composition)
 	- [Analysis](#analysis)
 * [HTTP Servers](#http-servers)
+	- [TLS](#tls)
 * [Monitoring](#monitoring)
 * [REST API](#rest-api)
 * [Error handling](#error-handling)
@@ -79,6 +80,9 @@ A compilation of knowledge about the Go Programming Language
 * [A Guide To Writing Logging Middleware in Go](https://blog.questionable.services/article/guide-logging-middleware-go/): Step by step guide to write logging middleware. [_Matt Silverlock_]
 * [Which Go router should I use?](https://www.alexedwards.net/blog/which-go-router-should-i-use): Comparison and evaluation of popular router options for Go. [_Alex Edwards_]
 * [Hot to Rate Limit HTTP requests](https://www.alexedwards.net/blog/how-to-rate-limit-http-requests): Excellent article about how to properly set a maximum rate of requests in a given time from a particular user. [_Alex Edwards_]
+
+### TLS
+* [Go HTTP servers with TLS](https://eli.thegreenplace.net/2021/go-https-servers-with-tls/): A guide on how to configure TLS authentication for both servers and clients. It is very understandable, easy to follow and provides extra resources and a detail description on how to create self-signed certificates for a testing environment. [_Eli Bendersky_]
 
 ## Monitoring
 * [Collecting Prometheus metrics in Golang](https://gabrieltanner.org/blog/collecting-prometheus-metrics-in-golang/): A very detailed guide about collecting metrics with Go using Prometheus and finally displaying them in a dashboard with Grafana. [_Gabriel Tanner_]
