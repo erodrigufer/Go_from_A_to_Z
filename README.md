@@ -60,6 +60,7 @@ A compilation of knowledge about the Go Programming Language
 
 ## Data structures
 * [Go Data Structures](https://research.swtch.com/godata): A description of the memory implementation of some basic types in Go: bytes, int, floats, structs, pointers, strings and slices. Furthermore, a description of the functions for data structure creation `make` and `new`. [_Russ Cox_]
+* [Maps and memory leaks in Go](https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69): An article explaining the fact that maps can only grow (even after garbage collection) and how they can potentially increase the memory consumption of a program to dangerous levels. [_Teiva Harsanyi_]
 
 ## Semantics
 * [The Go Programming Language Specification](https://go.dev/ref/spec): Official language specification
