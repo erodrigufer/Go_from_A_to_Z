@@ -17,6 +17,7 @@ A compilation of knowledge about the Go Programming Language
 * [Monitoring](#monitoring)
 * [REST API](#rest-api)
 * [Error handling](#error-handling)
+* [SSH](#ssh)
 * [Tooling](#tooling)
 	- [Build](#build)
 	- [Testing](#testing)
@@ -98,6 +99,9 @@ A compilation of knowledge about the Go Programming Language
 * [Why Go error handling is awesome](https://rauljordan.com/2020/07/06/why-go-error-handling-is-awesome.html): A discussion and comparison of error handling in Go with other languages. A good explanation about giving context to errors with `fmt.Errorf()`. [_Raul Jordan_]
 * [Error handling guidelines for Go](https://jayconrod.com/posts/116/error-handling-guidelines-for-go): The logic behind properly handling errors, be it with the error interface or by returning sentinel values. [_Jay Conrod_]
 * [Go (Golang) - Errors and panics](https://unixsheikh.com/articles/go-errors-and-panics.html): An argument for verbosity in error handling in Go [_Unix Sheikh_]
+
+## SSH
+* [SSH port forwarding with Go](https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/): A guide on how to create an SSH tunnel with Go. [_Eli Bendersky_]
 
 ## Tooling
 * [An overview of Go's Tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling): A general overview of the multiple options of the `go` command. [_Alex Edwards_]
