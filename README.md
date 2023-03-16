@@ -14,6 +14,7 @@ A compilation of knowledge about the Go Programming Language
 	- [Analysis](#analysis)
 * [HTTP Servers](#http-servers)
 	- [TLS](#tls)
+	- [Proxy servers](#proxy-servers)
 * [Monitoring](#monitoring)
 * [REST API](#rest-api)
 * [Error handling](#error-handling)
@@ -86,6 +87,9 @@ A compilation of knowledge about the Go Programming Language
 
 ### TLS
 * [Go HTTP servers with TLS](https://eli.thegreenplace.net/2021/go-https-servers-with-tls/): A guide on how to configure TLS authentication for both servers and clients. It is very understandable, easy to follow and provides extra resources and a detail description on how to create self-signed certificates for a testing environment. [_Eli Bendersky_]
+
+### Proxy servers
+* [Go and Proxy servers (HTTP proxies)](https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/): A guide on how to develop reverse- and forward proxies with Go. [_Eli Bendersky_]
 
 ## Monitoring
 * [Collecting Prometheus metrics in Golang](https://gabrieltanner.org/blog/collecting-prometheus-metrics-in-golang/): A very detailed guide about collecting metrics with Go using Prometheus and finally displaying them in a dashboard with Grafana. [_Gabriel Tanner_]
