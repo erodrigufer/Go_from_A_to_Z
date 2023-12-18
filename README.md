@@ -17,6 +17,8 @@ A compilation of knowledge about the Go Programming Language
 - [HTTP Servers](#http-servers)
   - [TLS](#tls)
   - [Proxy servers](#proxy-servers)
+- [Web development](#web-development)
+  - [Authentication](#authentication)
 - [Monitoring](#monitoring)
 - [REST API](#rest-api)
 - [Error handling](#error-handling)
@@ -105,6 +107,12 @@ A compilation of knowledge about the Go Programming Language
 ### Proxy servers
 
 - [Go and Proxy servers (HTTP proxies)](https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/): A guide on how to develop reverse- and forward proxies with Go. [_Eli Bendersky_]
+
+## Web development
+
+### Authentication
+
+- [Sign in with GitHub in Go](https://eli.thegreenplace.net/2023/sign-in-with-github-in-go/): Using OAuth and GitHub as an identity provider. [_Eli Bendersky_]
 
 ## Monitoring
 
