@@ -93,8 +93,11 @@ A compilation of knowledge about the Go Programming Language
 
 - [The ultime guide to writing a Go tool](https://arslan.io/2017/09/14/the-ultimate-guide-to-writing-a-go-tool/): A guide on how to use semantic/language analysis tools from the standard library to write a Go tool. [_Fatih Arslan_]
 
-## HTTP Servers
+## Web development
 
+### HTTP Servers
+
+- [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/): Great read with some more advanced insights into how to structure and develop a backend web service. [_Mat Ryer_]
 - [Validation Snippets for Go](https://www.alexedwards.net/blog/validation-snippets-for-go): Common validation patterns for data being sent to a server through a POST request [_Alex Edwards_]
 - [A Guide To Writing Logging Middleware in Go](https://blog.questionable.services/article/guide-logging-middleware-go/): Step by step guide to write logging middleware. [_Matt Silverlock_]
 - [Which Go router should I use?](https://www.alexedwards.net/blog/which-go-router-should-i-use): Comparison and evaluation of popular router options for Go. [_Alex Edwards_]
@@ -108,8 +111,6 @@ A compilation of knowledge about the Go Programming Language
 ### Proxy servers
 
 - [Go and Proxy servers (HTTP proxies)](https://eli.thegreenplace.net/2022/go-and-proxy-servers-part-1-http-proxies/): A guide on how to develop reverse- and forward proxies with Go. [_Eli Bendersky_]
-
-## Web development
 
 ### Authentication
 
