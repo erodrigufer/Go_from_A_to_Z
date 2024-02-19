@@ -179,7 +179,9 @@ A compilation of knowledge about the Go Programming Language
 
 ### Contexts
 
+- [Stdlib: context package documentation](https://pkg.go.dev/context#pkg-overview): The documentation of the standard library `context` package has a good and concise explanation on why to use contexts and how to use them properly.
 - [How to use contexts in Go](https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go): Semantic and syntactic explanation on how to implement contexts in concurrent programs. [_DigitalOcean's Go series_]
+- [Context and structs](https://go.dev/blog/context-and-structs): Official Go blog article on properly handling contexts.
 
 ### Go runtime scheduler
 
