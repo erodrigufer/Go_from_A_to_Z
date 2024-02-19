@@ -103,6 +103,7 @@ A compilation of knowledge about the Go Programming Language
 - [Which Go router should I use?](https://www.alexedwards.net/blog/which-go-router-should-i-use): Comparison and evaluation of popular router options for Go. [_Alex Edwards_]
 - [Hot to Rate Limit HTTP requests](https://www.alexedwards.net/blog/how-to-rate-limit-http-requests): Excellent article about how to properly set a maximum rate of requests in a given time from a particular user. [_Alex Edwards_]
 - [Serving static files and web apps in Go](https://eli.thegreenplace.net/2022/serving-static-files-and-web-apps-in-go/): An introduction into using the standard library built-in functionality to create static file servers. The guide also explains how to integrate the static file servers with servers handling dynamic requests. [_Eli Bendersky_]
+- [Proper HTTP shutdown in Go](https://dev.to/mokiat/proper-http-shutdown-in-go-3fji): An article explaining in detail how to graciuosly/properly shutdown a Go HTTP server.
 
 ### TLS
 
