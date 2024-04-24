@@ -25,6 +25,7 @@ A compilation of knowledge about the Go Programming Language
 - [SSH](#ssh)
 - [Tooling](#tooling)
   - [Build](#build)
+  - [Debugging](#debugging)
   - [Testing](#testing)
   - [Documentation](#documentation)
   - [Modules](#modules)
@@ -148,6 +149,10 @@ A compilation of knowledge about the Go Programming Language
 - [Installation with Go Language can be simpler](https://gokcehan.github.io/posts/installation-with-go-language-can-be-simpler.html): Some useful recommendations regarding static linking through use of _CGO_ENABLED_ env variable, stripping binaries at compilation, version in binaries, cross-compilation, etc.
 - [Customizing Go binaries with build tags](https://www.digitalocean.com/community/tutorials/customizing-go-binaries-with-build-tags): Tutorial on how to use build tags for cross-compilation. [_DigitalOcean's Go series_]
 - [3 ways to embed commit hash to Go programs](https://developers.redhat.com/articles/2022/11/14/3-ways-embed-commit-hash-go-programs): A guide on how to embed a commit hash to a Go program at build time. [_Red Hat_]
+
+### Debugging
+
+- [go delve - The Golang Debugger](https://earthly.dev/blog/golang-dlv/): An introduction into how to use `delve` from the command line to debug programs and tests. The article has a very good table summary of important `delve` commands for debugging.
 
 ### Testing
 
