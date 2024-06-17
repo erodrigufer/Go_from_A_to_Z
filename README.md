@@ -108,6 +108,7 @@ A compilation of knowledge about the Go Programming Language
 - [Proper HTTP shutdown in Go](https://dev.to/mokiat/proper-http-shutdown-in-go-3fji): An article explaining in detail how to graciously/properly shutdown a Go HTTP server.
 - [Context (in Middlewares and Handlers)](https://peter.bourgon.org/blog/2016/07/11/context.html): An article explaining when it makes sense to pass down data to further server handlers using an `*http.Request` `context`. [_Peter Bourgon_]
 - [What is a broken piper error: TCP/HTTP connections and pools](https://medium.com/trendyol-tech/golang-what-is-broken-pipe-error-tcp-http-connections-and-pools-3988b79f28e5): An article explaining TCP/HTTP connection pools and when and why a broken pipe write error could take place.
+- [Logging in Go with Slog: The ultimate guide](https://betterstack.com/community/guides/logging/logging-in-go/): In-depth article explaining how to use the "_new_" `log/slog` package.
 
 ### TLS
 
