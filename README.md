@@ -123,6 +123,10 @@ A compilation of knowledge about the Go Programming Language
 
 - [Sign in with GitHub in Go](https://eli.thegreenplace.net/2023/sign-in-with-github-in-go/): Using OAuth and GitHub as an identity provider. [_Eli Bendersky_]
 
+### Audio streaming
+
+- [A Guide to Building a Realtime HTTP Audio Streaming Server in Go](https://medium.com/@icelain/a-guide-to-building-a-realtime-http-audio-streaming-server-in-go-24e78cf1aa2c)
+
 ## Monitoring
 
 - [Collecting Prometheus metrics in Golang](https://gabrieltanner.org/blog/collecting-prometheus-metrics-in-golang/): A very detailed guide about collecting metrics with Go using Prometheus and finally displaying them in a dashboard with Grafana. [_Gabriel Tanner_]
