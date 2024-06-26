@@ -45,6 +45,7 @@ A compilation of knowledge about the Go Programming Language
 
 - [Language specification](https://tip.golang.org/ref/spec)
 - [Effective Go](https://go.dev/doc/effective_go)
+- [Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)
 
 ## Books
 
