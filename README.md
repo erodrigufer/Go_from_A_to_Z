@@ -91,6 +91,7 @@ A compilation of knowledge about the Go Programming Language
 - [Embedding in Go part 1: Structs in structs](https://eli.thegreenplace.net/2020/embedding-in-go-part-1-structs-in-structs/): Part 1 of a 3 part series which focuses on teaching the reasoning behind different compositional patterns with _structs_ and _interfaces_. [_Eli Bendersky_]
 - [Embedding in Go part 2: Interfaces in interfaces](https://eli.thegreenplace.net/2020/embedding-in-go-part-2-interfaces-in-interfaces/): Part 2 of a 3 part series which focuses on teaching the reasoning behind different compositional patterns with _structs_ and _interfaces_. [_Eli Bendersky_]
 - [Embedding in Go part 3: Interfaces in structs](https://eli.thegreenplace.net/2020/embedding-in-go-part-3-interfaces-in-structs/): Part 3 of a 3 part series which focuses on teaching the reasoning behind different compositional patterns with _structs_ and _interfaces_. [_Eli Bendersky_]
+- [Using functional options instead of method chaining](https://www.calhoun.io/using-functional-options-instead-of-method-chaining-in-go/): A guide on using functional options (as defined by Dave Cheney) with detailed examples. [_Jon Calhoun_]
 
 ### Analysis
 
