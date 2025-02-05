@@ -112,6 +112,11 @@ A compilation of knowledge about the Go Programming Language
 - [What is a broken piper error: TCP/HTTP connections and pools](https://medium.com/trendyol-tech/golang-what-is-broken-pipe-error-tcp-http-connections-and-pools-3988b79f28e5): An article explaining TCP/HTTP connection pools and when and why a broken pipe write error could take place.
 - [Logging in Go with Slog: The ultimate guide](https://betterstack.com/community/guides/logging/logging-in-go/): In-depth article explaining how to use the "_new_" `log/slog` package.
 
+#### Errors
+
+- [Handle 'broken pipe' error in Go](https://gosamples.dev/broken-pipe/)
+- [Handle 'connection reset by peer' error in Go](https://gosamples.dev/connection-reset-by-peer/)
+
 ### TLS
 
 - [Go HTTP servers with TLS](https://eli.thegreenplace.net/2021/go-https-servers-with-tls/): A guide on how to configure TLS authentication for both servers and clients. It is very understandable, easy to follow and provides extra resources and a detail description on how to create self-signed certificates for a testing environment. [_Eli Bendersky_]
