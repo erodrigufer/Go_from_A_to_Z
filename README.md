@@ -116,6 +116,7 @@ A compilation of knowledge about the Go Programming Language
 
 - [Handle 'broken pipe' error in Go](https://gosamples.dev/broken-pipe/)
 - [Handle 'connection reset by peer' error in Go](https://gosamples.dev/connection-reset-by-peer/)
+- [Centralize HTTP Error Handling in Go](https://www.alexisbouchez.com/blog/http-error-handling-in-go)
 
 ### TLS
 
