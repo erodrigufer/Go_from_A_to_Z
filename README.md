@@ -71,6 +71,7 @@ A compilation of knowledge about the Go Programming Language
 - [Interface segregation in action with Go](https://gianarb.it/blog/interface-segreation-in-action-with-go): A simple explanatory guide on how to properly use and compose interfaces and the benefits of structuring a program in such a way.
 - [Interfaces are not meant for that](https://preslav.me/2023/12/15/golang-interfaces-are-not-meant-for-that/#the-top): [_Preslav Rachev_]
 - [Functional Options Pattern in Golang](https://michalzalecki.com/golang-options-pattern/): An explanatory article on how to use the _functional options pattern_ to provide options or initialize fields in a struct with a constructor, instead of passing the field values as parameters. This design pattern is supported in other articles by Dave Cheney. [_Michael Zalecki_]
+- [Revisiting interface segregation in Go](https://rednafi.com/go/interface-segregation/): Create the interface close to the consumer not the producer.
 
 ## Data structures
 
