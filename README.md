@@ -86,6 +86,7 @@ A compilation of knowledge about the Go Programming Language
 - [How to use variadic functions in Go](https://www.digitalocean.com/community/tutorials/how-to-use-variadic-functions-in-go): A DigitalOcean's guide on using variadic functions. [_DigitalOcean_]
 - [Implementing enumerations in Golang](https://www.ardanlabs.com/blog/2023/09/implementing-enumerations-in-golang.html): A guide showing a way to implement enumerations and the reasoning behind this specific implementation. [_William Kennedy_]
 - [Unmarshalling JSON with Null Boolean values in Go](https://biscuit.ninja/posts/unmarshalling-json-with-null-booleans-in-go/): A guide on how to properly unmarshal Null values from a JSON object. Especially relevant when handling SQL databases with columns with NULL values.
+- [Switch Statements in Go](https://www.dolthub.com/blog/2025-10-24-go-switch/): A guide to all ways in which switch statements can be used in Go.
 
 ### Composition
 
